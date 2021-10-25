@@ -43,13 +43,15 @@
      align-content: center;
      justify-content: center; 
      margin-top: 60px;
-     /* border: 3px solid red;  */
+     /* border: 3px solid red;   */
      margin-left: 50px;
      margin-right: 50px;
+     
     }
+    
  
     #bttn:hover {
-        background-color: white;
+        background-color: red;
     }
 
     .container11-lg #bttn {
@@ -62,12 +64,19 @@
      margin-right: 30px;
  }
     
-.container8 {
-    /* border: 3px solid red; */
+.container14 {
+    /* border: 3px solid red;  */
     background-color: black;
-    height:auto;
     margin-top:80px;
-    }
+    
+    /* margin-left: -105px;
+    margin-right: -105px; */
+}
+.container8 {
+    /* border: 3px solid red;  */
+    background-color: black;
+    margin-top:80px;
+}
     
     .container9 {
    /*  border: 3px solid red; */
@@ -88,7 +97,7 @@
  .fon {
     font-size: 17px;
  }
- 
+
  /* login and signup page css */
  .container1 {
     margin-top: 80px;
@@ -98,4 +107,7 @@
 .container3 {
     margin-left: 80px;
     padding: 30px;
+}
+.bangl{
+margin-left: -16px;
 }
