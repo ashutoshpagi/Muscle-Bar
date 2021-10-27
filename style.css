@@ -82,3 +82,7 @@ font-size: 30px;
 .bangl{
 margin-left: -16px;
 }
+
+nav #navbarSupportedContent a:hover {
+color: blue;
+}
